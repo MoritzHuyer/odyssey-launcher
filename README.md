@@ -2,10 +2,10 @@
 
 # 🚀 Odyssey Launcher
 
-**Der schöne, schnelle Minecraft-Launcher**
+**The beautiful, fast Minecraft launcher**
 
-Ein moderner Launcher im Geiste von Lunar Client – mit Internet-Chat, Freunden,
-Mods, Modpacks und mehr. Entwickelt mit 💙 für die Community.
+A modern launcher in the spirit of Lunar Client — with internet chat, friends,
+mods, modpacks and more. Built with 💙 for the community.
 
 [![Version](https://img.shields.io/github/v/release/MoritzHuyer/odyssey-launcher?style=for-the-badge&color=6366f1&label=Version)](https://github.com/MoritzHuyer/odyssey-launcher/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/MoritzHuyer/odyssey-launcher/total?style=for-the-badge&color=22c55e&label=Downloads)](https://github.com/MoritzHuyer/odyssey-launcher/releases/latest)
@@ -19,7 +19,7 @@ Mods, Modpacks und mehr. Entwickelt mit 💙 für die Community.
 
 ## 📥 Download
 
-Wähle dein System – die neueste Version wird automatisch geladen:
+Choose your system — the latest version is loaded automatically:
 
 | | Download |
 | --- | --- |
@@ -27,19 +27,18 @@ Wähle dein System – die neueste Version wird automatisch geladen:
 | 🍎 **macOS (Apple Silicon)** | [⬇️ Installer (DMG)](https://github.com/MoritzHuyer/odyssey-launcher/releases/latest/download/Odyssey-Launcher-0.5.3-arm64.dmg) |
 | 🐧 **Linux** | [⬇️ AppImage](https://github.com/MoritzHuyer/odyssey-launcher/releases/latest/download/Odyssey-Launcher-0.5.3-x86_64.AppImage) · [📦 .deb](https://github.com/MoritzHuyer/odyssey-launcher/releases/latest/download/Odyssey-Launcher-0.5.3-amd64.deb) |
 
-> ℹ️ **Alle Downloads**: Die komplette Liste aller Dateien findest du auf der
-> [Release-Seite](https://github.com/MoritzHuyer/odyssey-launcher/releases/latest).
+> ℹ️ **All downloads**: The complete list of files can be found on the
+> [Release page](https://github.com/MoritzHuyer/odyssey-launcher/releases/latest).
 
 <details>
-<summary>❓ Hinweise für Windows & macOS</summary>
+<summary>❓ Notes for Windows & macOS</summary>
 
-**Windows – SmartScreen-Warnung:** Beim ersten Start zeigt Windows eine blaue
-Warnung („Unbekannter Herausgeber"). Das ist bei nicht signierten Apps normal.
-Klicke auf **„Weitere Informationen" → „Trotzdem ausführen"**, um die Installation
-fortzusetzen.
+**Windows – SmartScreen warning:** On first launch, Windows shows a blue
+warning ("Unknown publisher"). This is normal for unsigned apps.
+Click **"More info" → "Run anyway"** to continue the installation.
 
-**macOS – „Beschädigt"-Meldung:** Falls macOS die App als beschädigt meldet,
-klicke mit **Rechtsklick** auf die App → **Öffnen**. Alternativ im Terminal:
+**macOS – "Damaged" message:** If macOS reports the app as damaged,
+**right-click** the app → **Open**. Alternatively, run this in the terminal:
 
 ```bash
 xattr -cr "/Applications/Odyssey Launcher.app"
@@ -55,74 +54,74 @@ xattr -cr "/Applications/Odyssey Launcher.app"
 
 | | | |
 | --- | --- | --- |
-| 🎮 | **Microsoft-Anmeldung** | Dein Minecraft-Konto, einfach verbunden – mit Multi-Account-Unterstützung |
-| 💬 | **Internet-Chat** | Gruppenchat, private Nachrichten und Freunde – von überall, nicht nur im LAN |
-| 📦 | **Mods & Modpacks** | Modrinth und CurseForge direkt im Launcher, inkl. Modpacks |
-| 🧵 | **Instanzen** | Separate Profile für jede Mod-Kombination und Minecraft-Version |
-| 🧊 | **Skins & Capes** | Dein Profil direkt im Launcher verwalten |
-| 🕹️ | **Odyssey Client Core** | PvP-HUD und mehr – als Fabric-Mod integriert |
-| 🔄 | **Auto-Updates** | Der Launcher aktualisiert sich selbst – keine manuellen Downloads nötig |
+| 🎮 | **Microsoft sign-in** | Your Minecraft account, connected easily — with multi-account support |
+| 💬 | **Internet chat** | Group chat, private messages and friends — from anywhere, not just LAN |
+| 📦 | **Mods & modpacks** | Modrinth and CurseForge right inside the launcher, including modpacks |
+| 🧵 | **Instances** | Separate profiles for every mod combination and Minecraft version |
+| 🧊 | **Skins & capes** | Manage your profile directly in the launcher |
+| 🕹️ | **Odyssey Client Core** | PvP HUD and more — built in as a Fabric mod |
+| 🔄 | **Auto-updates** | The launcher updates itself — no manual downloads needed |
 
 </div>
 
 ---
 
-## 🚦 Erste Schritte
+## 🚦 Getting started
 
-1. **Installiere** die passende Version für dein System (oben).
-2. **Melde dich an** mit deinem Microsoft-Konto (Minecraft erforderlich).
-3. **Wähle eine Minecraft-Version** und klicke auf **Spielen** – fertig! 🎮
+1. **Install** the matching version for your system (above).
+2. **Sign in** with your Microsoft account (Minecraft required).
+3. **Pick a Minecraft version** and click **Play** — done! 🎮
 
-Der Launcher kümmert sich automatisch um Java, Libraries und Assets.
+The launcher takes care of Java, libraries and assets automatically.
 
 ---
 
-## 🖼️ Vorschau
+## 🖼️ Preview
 
-Screenshots folgen in Kürze – der Launcher wächst stetig:
+Screenshots coming soon — the launcher is growing steadily:
 
-- ✨ Modernes, dunkles Design
-- 💬 Integrierter Community-Chat
-- 📦 Mod-Verwaltung direkt im Launcher
+- ✨ Modern, dark design
+- 💬 Built-in community chat
+- 📦 Mod management right inside the launcher
 
 ---
 
 ## 🗺️ Roadmap
 
-- [x] Microsoft-Anmeldung & Spielstart
-- [x] Internet-Chat mit zentralem Server
-- [x] Mods & Modpacks (Modrinth + CurseForge)
-- [x] Auto-Updater
-- [x] Multi-Account & Profil-Verwaltung
-- [x] Englische Übersetzung (i18n)
-- [ ] Cosmetics-Store
-- [ ] Weitere Sprachen
+- [x] Microsoft sign-in & game launch
+- [x] Internet chat with central server
+- [x] Mods & modpacks (Modrinth + CurseForge)
+- [x] Auto-updater
+- [x] Multi-account & profile management
+- [x] English translation (i18n)
+- [ ] Cosmetics store
+- [ ] More languages
 
 ---
 
 ## ❓ FAQ
 
-**Ist Odyssey Launcher kostenlos?**
-Ja – komplett kostenlos und ohne versteckte Kosten.
+**Is Odyssey Launcher free?**
+Yes — completely free with no hidden costs.
 
-**Brauche ich ein Minecraft-Konto?**
-Ja, für den Spielstart wird eine Microsoft-Anmeldung mit Minecraft benötigt.
+**Do I need a Minecraft account?**
+Yes, a Microsoft sign-in with Minecraft is required to launch the game.
 
-**Funktioniert das mit Mods?**
-Ja – Modrinth- und CurseForge-Mods lassen sich direkt installieren, auch Modpacks.
+**Does it work with mods?**
+Yes — Modrinth and CurseForge mods can be installed directly, including modpacks.
 
-**Wo landen meine Daten?**
-Der Chat-Verlauf liegt auf dem Odyssey-Chat-Server; deine Minecraft-Anmeldung
-wird nur lokal für den Spielstart verwendet.
+**Where does my data go?**
+Chat history lives on the Odyssey chat server; your Minecraft sign-in is only
+used locally to launch the game.
 
 ---
 
 <div align="center">
 
-**Odyssey Launcher** – ein unabhängiges Fan-Projekt.
+**Odyssey Launcher** — an independent fan project.
 
-*Nicht offiziell mit Mojang oder Microsoft verbunden.*
+*Not officially affiliated with Mojang or Microsoft.*
 
-[← Zur Release-Seite](https://github.com/MoritzHuyer/odyssey-launcher/releases/latest)
+[← Back to release page](https://github.com/MoritzHuyer/odyssey-launcher/releases/latest)
 
 </div>
