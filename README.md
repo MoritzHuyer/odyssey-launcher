@@ -1,6 +1,6 @@
 <div align="center">
 
-#Odyssey Launcher
+# Odyssey Launcher
 
 **The beautiful, fast Minecraft launcher**
 
