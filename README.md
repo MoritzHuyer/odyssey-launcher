@@ -23,7 +23,7 @@ Choose your system — the latest version is loaded automatically:
 
 | | Download |
 | --- | --- |
-| 🪟 **Windows** | [⬇️ Installer (Setup.exe)](https://github.com/MoritzHuyer/odyssey-launcher/releases/latest/download/Odyssey-Launcher-0.5.3-Setup.exe) · [📦 Portable](https://github.com/MoritzHuyer/odyssey-launcher/releases/latest/download/Odyssey-Launcher-0.5.3-Portable.exe) |
+| 🪟 **Windows** | [⬇️ Installer (Setup.exe)](https://github.com/MoritzHuyer/odyssey-launcher/releases/latest/download/Odyssey-Launcher-0.5.3-Setup.exe) |
 | 🍎 **macOS (Apple Silicon)** | [⬇️ Installer (DMG)](https://github.com/MoritzHuyer/odyssey-launcher/releases/latest/download/Odyssey-Launcher-0.5.3-arm64.dmg) |
 | 🐧 **Linux** | [⬇️ AppImage](https://github.com/MoritzHuyer/odyssey-launcher/releases/latest/download/Odyssey-Launcher-0.5.3-x86_64.AppImage) · [📦 .deb](https://github.com/MoritzHuyer/odyssey-launcher/releases/latest/download/Odyssey-Launcher-0.5.3-amd64.deb) |
 
