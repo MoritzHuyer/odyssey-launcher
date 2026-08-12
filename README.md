@@ -1,6 +1,8 @@
 <div align="center">
 
-# Odyssey Launcher
+<img src="logo.png" alt="Odyssey Launcher" width="140" />
+
+# 🚀 Odyssey Launcher
 
 **The beautiful, fast Minecraft launcher**
 
