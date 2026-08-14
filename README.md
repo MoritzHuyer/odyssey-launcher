@@ -25,9 +25,9 @@ Choose your system — the latest version is loaded automatically:
 
 | | Download |
 | --- | --- |
-| 🪟 **Windows** | [⬇️ Installer (Setup.exe)](https://github.com/MoritzHuyer/odyssey-launcher/releases/latest/download/Odyssey-Launcher-0.6.1-Setup.exe) |
-| 🍎 **macOS (Apple Silicon)** | [⬇️ Installer (DMG)](https://github.com/MoritzHuyer/odyssey-launcher/releases/latest/download/Odyssey-Launcher-0.6.1-arm64.dmg) |
-| 🐧 **Linux** | [⬇️ AppImage](https://github.com/MoritzHuyer/odyssey-launcher/releases/latest/download/Odyssey-Launcher-0.6.1-x86_64.AppImage) · [📦 .deb](https://github.com/MoritzHuyer/odyssey-launcher/releases/latest/download/Odyssey-Launcher-0.6.1-amd64.deb) |
+| 🪟 **Windows** | [⬇️ Installer (Setup.exe)](https://github.com/MoritzHuyer/odyssey-launcher/releases/latest/download/Odyssey-Launcher-0.6.2-Setup.exe) |
+| 🍎 **macOS (Apple Silicon)** | [⬇️ Installer (DMG)](https://github.com/MoritzHuyer/odyssey-launcher/releases/latest/download/Odyssey-Launcher-0.6.2-arm64.dmg) |
+| 🐧 **Linux** | [⬇️ AppImage](https://github.com/MoritzHuyer/odyssey-launcher/releases/latest/download/Odyssey-Launcher-0.6.2-x86_64.AppImage) · [📦 .deb](https://github.com/MoritzHuyer/odyssey-launcher/releases/latest/download/Odyssey-Launcher-0.6.2-amd64.deb) |
 
 > ℹ️ **All downloads**: The complete list of files can be found on the
 > [Release page](https://github.com/MoritzHuyer/odyssey-launcher/releases/latest).
